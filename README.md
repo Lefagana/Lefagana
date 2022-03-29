@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Programming (Coding)!
 - 🌱 I’m currently learning  Flutter, React Native, 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at  ngurudeveloper@gmail.com
+- 📫 How to reach me at  Ngurudeveloper@gmail.com or Whatsapp me on +2349030884124
 
 <!---
 Lefagana/Lefagana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
